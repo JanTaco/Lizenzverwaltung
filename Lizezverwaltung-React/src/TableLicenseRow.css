@@ -1,0 +1,16 @@
+/* tr:nth-child(even) {
+    background-color: grey;
+} */
+
+
+.expired{
+    background-color: red;
+}
+
+.almost-expired{
+    background-color: yellow;
+}
+
+
+
+/*#777; #555;*/

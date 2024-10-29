@@ -1,0 +1,77 @@
+.MainContent {
+    height: 200px;
+}
+
+
+
+.LizenzenStat {
+    Margin: 10px;
+    border: solid;
+    border-radius: 5px;
+    float: right;
+    padding-right: 5%;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, sans-serif;
+    width: 270px;
+    margin-right: 1%;
+}
+
+.Headline {
+    width: 123px;
+    margin-left: calc(50%-123px);
+    margin-left: calc(50% - 123px);
+    font-family: Arial, sans-serif;
+    margin: auto;
+}
+
+
+.SwitchTable {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    float: right;
+    height: 30px;
+    width: 230px;
+    margin-right: 1%;
+    cursor: pointer;
+    
+}
+
+.Search {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    height: 30px;
+}
+
+.Searchbar {
+    border: solid;
+    border-width: 2px;
+    width: 250px;
+    margin-left: 1%;
+    height: 30px;
+    
+}
+
+input:focus{
+    outline: none;
+    }
+
+
+
+.CreateButton{
+    background-color: red;
+    border: solid;
+    border-width: 2px;
+    margin: 1%;
+    width: 98%;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
